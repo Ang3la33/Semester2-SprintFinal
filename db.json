@@ -1,0 +1,73 @@
+{
+    "products" : [
+    {
+        "id": 1,
+        "name": "Pepsay",
+        "description": "Nar 'ting better than a can a pepsay on a hot day, or a cold day, a rainy day or a foggy day! Much better than the other brand with the lard blessed polar bear. Made right here at the old 'Arvey place by me grandmudders.",
+        "price": 1.50,
+        "image": "/pepsay.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Vienna Sausages",
+        "description": "Is ya 'Ungry? I dies for some vienna sausages!",
+        "price": 1.75,
+        "image": "/viennasausages.jpg",
+        "video": "https://www.youtube.com/embed/Q4_16VG3Zaw"
+    },
+    {
+        "id": 3,
+        "name": "Newfie Steak",
+        "description": "Nice and 'tick! Great fried up with a bit a beans!",
+        "price": 7.50,
+        "image": "/newfiesteak.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Mustard Pickles",
+        "description": "Some shockin' good me son, some shockin' good!",
+        "price": 3.25,
+        "image": "/mustardpickles.jpg"
+
+    },
+    {
+        "id": 5,
+        "name": "Darts",
+        "description": "Got any smokes? We do! Just rolled them this mornin'. Sold individually. Don't tell me mudder I took her 'backy.",
+        "price": 1.25,
+        "image": "/darts.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Who knit ya? Socks",
+        "description": "Is ya froze da det? Get some hand made wool socks!",
+        "price": 5.00,
+        "image": "/socks.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Ugly Sticks",
+        "description": "No jig or reel is worth it's salt without one of these! Made with only the finest broom handles, boots and beer caps!",
+        "price": 15.00,
+        "image": "/uglysticks.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Whiskey in the Jar",
+        "description": "Mush-a-rigum, durram-da. Whack-fol-the daddie-o, whack-fol-the daddie-o, there's whiskey in the jar",
+        "price": 12.50,
+        "image": "/whisky.jpg",
+        "video": "https://www.youtube.com/embed/cYGyERe2Vbw"
+    },
+    {
+        "id": 9,
+        "name": "Sonny's Dreamcatcher",
+        "description": "Sonny's dreams can't be real, they're just stories he's read. They're just stars in his eyes, they're just dreams in his head.",
+        "price": 20.00,
+        "image": "/sonnysdream.jpg",
+        "video": "https://www.youtube.com/embed/8KD7eUfIgCk"
+        
+    }
+
+  ]
+}
